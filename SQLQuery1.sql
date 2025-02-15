@@ -1,0 +1,1 @@
+﻿update [DocumentDraft] set [status] = null
